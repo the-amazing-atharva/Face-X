@@ -1,30 +1,39 @@
 <div align="center">
 
+<img src="https://github.com/akshitagupta15june/Face-X/blob/master/Cartoonify-Image/logo/Face-X.png" width=250 height=250>
+	
 <a href="https://github.com/akshitagupta15june/Face-X/issues"><img src="https://img.shields.io/github/issues/akshitagupta15june/Face-X"></a>
 <a href="https://github.com/akshitagupta15june/Face-X/pulls"><img src="https://img.shields.io/github/issues-pr/akshitagupta15june/Face-X"></a>
 <a href="https://github.com/akshitagupta15june/Face-X/network/members"><img src="https://img.shields.io/github/forks/akshitagupta15june/Face-X"></a>
 <a href="https://github.com/akshitagupta15june/Face-X/stargazers"><img src="https://img.shields.io/github/stars/akshitagupta15june/Face-X"></a>
 <a href="https://github.com/akshitagupta15june/Face-X/blob/master/LICENSE"><img src="https://img.shields.io/github/license/akshitagupta15june/Face-X"></a>
 
-<img src="https://github.com/akshitagupta15june/Face-X/blob/master/Cartoonify-Image/logo/Face-X.png" width=250 height=250>
-
-<h3>Join official <a href="https://discord.com/invite/Jmc97prqjb">Discord Channel</a> for discussion</h3>
-<h2>Watch this <a href="https://youtu.be/VK-IaRY9szg">Video</a> to know about Face-X</h2>
-
 [![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://github.com/akshitagupta15june/Face-X) 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://www.python.org/) 
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://github.com/akshitagupta15june/Face-X)
+<br><br>
+<table>
+  <tr>
+    <td>
+      <h3>Join the official <a href="https://discord.com/invite/Jmc97prqjb">Discord Channel</a> for discussion</h3>
+    </td>
+    <td>
+      <h3>Watch this <a href="https://youtu.be/VK-IaRY9szg">Video</a> to know about Face-X</h3>
+    </td>
+  </tr>
+</table>
+
 
 </div>
 
-
+<br><br>
 <div align="center">
 <img src="https://github.com/akshitagupta15june/Face-X/blob/master/Cartoonify-Image/Cartoonify_face_image/Images/recof.gif" width="390px" height="350px" align='center'>
 </div>
 
 <div align="center">
-<h3>Demonstration of different algorithms and operations on faces</h3>
-
+<h3>🎯 Demonstration of different algorithms and operations on faces</h3></div>
+<div align="left">
 Face-X is a comprehensive repository of algorithms and operations related to facial recognition, which includes a range of functionalities from facial filters, image processing, face mask detection, and facial attendance systems to animated emotions and facial cartoonification. It encompasses all the possible operations that can be performed on the frontal human face, making it a versatile platform for facial-related tasks.
 </div>
 <p style="clear:both;">
@@ -207,8 +216,8 @@ Jump into our <a href="https://discord.com/invite/Jmc97prqjb">Discord</a>! Our p
 <!-- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!-- ------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
  
-<br>
- <h2 align="center">Code of Conduct</h2>
+<br><br><br>
+<h2 align="center">Code of Conduct</h2>
 
 To maintain a safe and inclusive space for everyone to learn and grow, contributors are advised to follow the [Code of Conduct](./CODE_OF_CONDUCT.md). 
  
@@ -248,7 +257,6 @@ Or you can create a  <a href="https://github.com/akshitagupta15june/Face-X/issue
 
   
 <div id="Bottom"></div>
-
 
 
 
